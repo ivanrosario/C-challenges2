@@ -1,0 +1,11 @@
+/Users/ivanrosario/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.0/CarClass.deps.json
+/Users/ivanrosario/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.0/CarClass.runtimeconfig.json
+/Users/ivanrosario/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.0/CarClass.runtimeconfig.dev.json
+/Users/ivanrosario/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.0/CarClass.dll
+/Users/ivanrosario/Projects/CarClass/CarClass/bin/Debug/netcoreapp2.0/CarClass.pdb
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.csprojResolveAssemblyReference.cache
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.csproj.CoreCompileInputs.cache
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.AssemblyInfoInputs.cache
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.AssemblyInfo.cs
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.dll
+/Users/ivanrosario/Projects/CarClass/CarClass/obj/Debug/netcoreapp2.0/CarClass.pdb

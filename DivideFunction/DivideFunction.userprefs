@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{3694A5F6-2AD5-44E5-9C9C-E3B8E5B6C783}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DivideFunction/Program.cs">
+    <Files>
+      <File FileName="DivideFunction/Program.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DivideFunction PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

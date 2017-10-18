@@ -1,0 +1,11 @@
+/Users/ivanrosario/Projects/DreamCar/DreamCar/bin/Debug/netcoreapp2.0/DreamCar.deps.json
+/Users/ivanrosario/Projects/DreamCar/DreamCar/bin/Debug/netcoreapp2.0/DreamCar.runtimeconfig.json
+/Users/ivanrosario/Projects/DreamCar/DreamCar/bin/Debug/netcoreapp2.0/DreamCar.runtimeconfig.dev.json
+/Users/ivanrosario/Projects/DreamCar/DreamCar/bin/Debug/netcoreapp2.0/DreamCar.dll
+/Users/ivanrosario/Projects/DreamCar/DreamCar/bin/Debug/netcoreapp2.0/DreamCar.pdb
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.csprojResolveAssemblyReference.cache
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.csproj.CoreCompileInputs.cache
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.AssemblyInfoInputs.cache
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.AssemblyInfo.cs
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.dll
+/Users/ivanrosario/Projects/DreamCar/DreamCar/obj/Debug/netcoreapp2.0/DreamCar.pdb

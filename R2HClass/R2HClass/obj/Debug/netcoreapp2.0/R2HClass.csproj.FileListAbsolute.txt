@@ -1,0 +1,11 @@
+/Users/ivanrosario/Projects/R2HClass/R2HClass/bin/Debug/netcoreapp2.0/R2HClass.deps.json
+/Users/ivanrosario/Projects/R2HClass/R2HClass/bin/Debug/netcoreapp2.0/R2HClass.runtimeconfig.json
+/Users/ivanrosario/Projects/R2HClass/R2HClass/bin/Debug/netcoreapp2.0/R2HClass.runtimeconfig.dev.json
+/Users/ivanrosario/Projects/R2HClass/R2HClass/bin/Debug/netcoreapp2.0/R2HClass.dll
+/Users/ivanrosario/Projects/R2HClass/R2HClass/bin/Debug/netcoreapp2.0/R2HClass.pdb
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.csprojResolveAssemblyReference.cache
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.csproj.CoreCompileInputs.cache
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.AssemblyInfoInputs.cache
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.AssemblyInfo.cs
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.dll
+/Users/ivanrosario/Projects/R2HClass/R2HClass/obj/Debug/netcoreapp2.0/R2HClass.pdb

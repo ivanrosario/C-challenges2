@@ -1,0 +1,11 @@
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/bin/Debug/netcoreapp2.0/DivideFunction.deps.json
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/bin/Debug/netcoreapp2.0/DivideFunction.runtimeconfig.json
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/bin/Debug/netcoreapp2.0/DivideFunction.runtimeconfig.dev.json
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/bin/Debug/netcoreapp2.0/DivideFunction.dll
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/bin/Debug/netcoreapp2.0/DivideFunction.pdb
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.csprojResolveAssemblyReference.cache
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.csproj.CoreCompileInputs.cache
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.AssemblyInfoInputs.cache
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.AssemblyInfo.cs
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.dll
+/Users/ivanrosario/Projects/DivideFunction/DivideFunction/obj/Debug/netcoreapp2.0/DivideFunction.pdb
